@@ -122,7 +122,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Bishnoi_botz)
 
 ## with Love  
-* [![BishnoiBotz-Abhi](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/Bishnoi_botz)
+* [![BishnoiBotz-Abhi](https://img.shields.io/static/v1?label=BishnoiBotz&message=devs&color=critical)](https://telegram.dog/Bishnoi_botz)
 
 
 ## Thanks to 
