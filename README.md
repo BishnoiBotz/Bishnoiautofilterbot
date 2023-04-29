@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Bishnoi botz Logo">
+  <img src="https://graph.org/file/1aecc492a20287f39794d.jpg" alt="Bishnoi botz Logo">
 </p>
 <h1 align="center">
   <b> Bishnoi botzV1.0 </b>
